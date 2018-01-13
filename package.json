@@ -1,0 +1,26 @@
+{
+  "name": "lifecoach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbarian264/LifeCoach-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbarian264/LifeCoach-App/issues"
+  },
+  "homepage": "https://github.com/barbarian264/LifeCoach-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mysql2": "^1.4.2",
+    "socket.io": "^2.0.4"
+  }
+}
